@@ -1,7 +1,8 @@
 {
-  "name": "learn-ionic",
+  "name": "Conotify",
   "integrations": {
     "capacitor": {}
   },
-  "type": "react"
+  "type": "react",
+  "id": "74ff5667"
 }
