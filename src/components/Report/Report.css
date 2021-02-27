@@ -1,0 +1,28 @@
+.inputCard {
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 0px 0px 2px !important;
+  margin-top: 50px;
+  margin-inline-start: 23px !important;
+  margin-inline-end: 23px !important;
+}
+
+.inputCards {
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 0px 0px 2px !important;
+  margin-inline-start: 23px !important;
+  margin-inline-end: 23px !important;
+}
+
+.inputCardContent {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.userInput {
+  font-size: 18px;
+}
+
+.inputSubmit {
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  height: 65px;
+  font-size: 18px;
+}

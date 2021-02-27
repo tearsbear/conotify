@@ -1,0 +1,20 @@
+.title {
+  margin-top: 30px;
+  font-size: 40px;
+  font-family: "Nunito", sans-serif;
+  font-weight: 600;
+}
+
+.desc {
+  margin-top: -1px;
+  font-weight: 600;
+  font-family: "Nunito", sans-serif;
+}
+
+.inputSubmit {
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  height: 65px;
+  font-size: 18px;
+  margin-top: 30px;
+}

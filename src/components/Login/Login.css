@@ -13,19 +13,30 @@
   width: 200px;
 }
 
-.title {
-  margin-top: -25px;
-  font-size: 40px;
+.iconCard {
+  box-shadow: none !important;
+  margin-top: -20px;
+  background-color: transparent;
 }
 
-.desc {
+.title {
+  margin-top: -30px;
+  font-size: 40px;
+  font-family: "Nunito", sans-serif;
   font-weight: 600;
 }
 
+.desc {
+  margin-top: -1px;
+  font-weight: 600;
+  font-family: "Nunito", sans-serif;
+}
+
 .inputCard {
-  box-shadow: none !important;
-  margin-inline: 23px !important;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 0px 0px 2px !important;
   margin-top: 50px;
+  margin-inline-start: 23px !important;
+  margin-inline-end: 23px !important;
 }
 
 .inputCardContent {
@@ -41,5 +52,5 @@
   padding-left: 20px !important;
   padding-right: 20px !important;
   height: 65px;
-  font-size: 20px;
+  font-size: 18px;
 }
